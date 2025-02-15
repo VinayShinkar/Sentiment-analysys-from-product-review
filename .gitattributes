@@ -1,3 +1,2 @@
+*.Reviews filter=lfs diff=lfs merge=lfs -text
 *.Reviews.csv filter=lfs diff=lfs merge=lfs -text
-*project/input_data/Reviews.csv filter=lfs diff=lfs merge=lfs -text
-project/input_data/Reviews.csv filter=lfs diff=lfs merge=lfs -text
